@@ -6,7 +6,7 @@ The library management system is a web application designed to facilitate the ma
 
 🔗 Technologies Used
 
-# Frontend:Streamlit(For creating the web interface) 
-# Backend:Python(for handling business logic and database interaction) 
-# Database:MySQL(for storing book and borrowers datas. 
-# Libraries: -pandas(data manipulation) -MySQL Connector(for database connection) -Streamlit(for web application)
+--> Frontend:Streamlit(For creating the web interface) 
+--> Backend:Python(for handling business logic and database interaction) 
+--> Database:MySQL(for storing book and borrowers datas. 
+--> Libraries: -pandas(data manipulation) -MySQL Connector(for database connection) -Streamlit(for web application)
